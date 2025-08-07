@@ -55,13 +55,7 @@ repos:
         name: Add TOC for Markdown and RST files
         description: Adds a Markdown table of contents
         files: \.md$
-        exclude: |
-          (^posts/.*\.md$)|
-          (^tags/.*\.md$)|
-          (^categories/.*\.md$)|
-          (^index\.md$)|
-          (^404\.md$)|
-          (^\.github/CODE_OF_CONDUCT\.md$)
+        exclude: ^categories/.*\.md$|^posts/.*\.md$|^tags/.*\.md$|^index\.md$|^404\.md$
   - repo: https://github.com/pycqa/isort
     rev: 6.0.1
     hooks:
