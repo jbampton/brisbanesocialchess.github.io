@@ -19,26 +19,13 @@ This site is built using [Eleventy (11ty)](https://www.11ty.dev/), a modern and 
 <table>
   <tr>
     <td>
-      <a href="https://brisbanesocialchess.github.io">
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.github.io&label=%F0%9F%8C%90%20github-pages" alt="GitHub Pages site status">
-      </a>
-      <br>
-      <a href="https://brisbanesocialchess.readthedocs.io/en/latest/">
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.readthedocs.io%2Fen%2Flatest%2F&label=%F0%9F%8C%90%20read-the-docs" alt="Read the Docs site status">
-      </a>
-    </td>
-    <td>
       <a href="https://codecov.io/github/brisbanesocialchess/brisbanesocialchess.github.io">
         <img src="https://codecov.io/github/brisbanesocialchess/brisbanesocialchess.github.io/branch/main/graph/badge.svg?token=VFS3PN96Q0" alt="Codecov status">
-      </a>
-      <br>
-      <a href="https://app.readthedocs.org/projects/brisbanesocialchess/builds/?version__slug=latest">
-        <img src="https://readthedocs.org/projects/brisbanesocialchess/badge/?version=latest" alt="Read the Docs Build Status">
       </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <a href="https://app.deepsource.com/gh/brisbanesocialchess/brisbanesocialchess.github.io/">
         <img src="https://app.deepsource.com/gh/brisbanesocialchess/brisbanesocialchess.github.io.svg/?label=active+issues&show_trend=true&token=YbVIWlOo80ifYYsP_8O2kR0F" alt="DeepSource active issues">
       </a>
