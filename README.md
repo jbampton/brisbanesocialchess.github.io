@@ -70,9 +70,6 @@ This site is built using [Eleventy (11ty)](https://www.11ty.dev/), a modern and 
 [![Super-Linter Workflow Status](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/actions/workflows/super-linter.yml/badge.svg?branch=main)](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/actions/workflows/super-linter.yml)
 
 - **Live site:** [https://www.brisbanesocialchess.org.au/](https://www.brisbanesocialchess.org.au/)
-- **GitHub Pages:** Current development site [https://brisbanesocialchess.github.io/](https://brisbanesocialchess.github.io/)
-- **Cloudflare Workers:** Playground [https://cfsite.brisbanesocialchess.workers.dev/](https://cfsite.brisbanesocialchess.workers.dev/)
-- **Read the Docs:** Skeleton book and documentation site [https://brisbanesocialchess.readthedocs.io/en/latest/](https://brisbanesocialchess.readthedocs.io/en/latest/)
 - [CONTRIBUTING Guide](CONTRIBUTING.md)
 
 ---
