@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/61562340?s=400&v=4" alt="Brisbane Social Chess Logo" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/223948126?s=200&v=4" alt="Brisbane Social Chess Logo" style="border-radius: 50%;">
   <h1>♟️ brisbanesocialchess.github.io</h1>
   <p>Welcome to the source code repository for the Brisbane Social Chess Inc website.</p>
 </div>
