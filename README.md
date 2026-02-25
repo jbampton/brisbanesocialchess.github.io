@@ -84,7 +84,7 @@ This site is built using [Eleventy (11ty)](https://www.11ty.dev/), a modern and 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [📃 About Brisbane Social Chess Inc](#-about-brisbane-social-chess-inc)
+- [📃 About Us](#-about-us)
 - [🚀 Quick Start](#-quick-start)
 - [🛠️ Technology Stack](#-technology-stack)
   - [⚡ Cloudflare Workers Development](#-cloudflare-workers-development)
@@ -100,7 +100,7 @@ This site is built using [Eleventy (11ty)](https://www.11ty.dev/), a modern and 
 
 ---
 
-## 📃 About Brisbane Social Chess Inc
+## 📃 About Us
 
 Brisbane Social Chess Inc is a not-for-profit organization in Queensland that promotes the game of chess through social gatherings and community engagement.
 We organize regular meetups where people can play chess in a relaxed and friendly environment.
@@ -112,7 +112,7 @@ We are registered in Queensland and have a dedicated team of organizers.
 
 For detailed development setup instructions, see [DEVELOPER_HELP.md](DEVELOPER_HELP.md).
 
-Experiment with Lerna and bootup a local developer playground from the repository root with: `npx lerna run dev`.
+Experiment with Lerna and boot up a local developer playground from the repository root with: `npx lerna run dev`.
 
 ## 🛠️ Technology Stack
 

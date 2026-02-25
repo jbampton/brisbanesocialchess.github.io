@@ -27,7 +27,7 @@
 
 # Developer and Contributing Guide ✨
 
-Welcome to Awesome Social Chess! We appreciate your interest in contributing and are excited to have you. This guide provides everything you need to set up your development environment, run the project locally, and submit your first contribution. All contributions are welcome! 💖
+Welcome to Awesome Social Chess. We appreciate your interest in contributing and are excited to have you. This guide provides everything you need to set up your development environment, run the project locally, and submit your first contribution. All contributions are welcome! 💖
 
 ## Getting Started: Your Development Environment
 

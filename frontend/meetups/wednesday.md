@@ -1,6 +1,6 @@
 ---
 layout: 'layouts/meetup.njk'
-slug: wednesday
+slug: 'wednesday'
 heading: 'Wednesday Lunchtime Chess ♟️☕'
 location: "June's Cafe"
 hosts:

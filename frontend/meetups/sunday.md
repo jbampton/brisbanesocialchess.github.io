@@ -1,6 +1,6 @@
 ---
 layout: 'layouts/meetup.njk'
-slug: sunday
+slug: 'sunday'
 heading: 'Sunday Lunchtime Chess ♟️☕'
 location: 'The Garden Room Cafe, Roma Street Parklands'
 hosts:

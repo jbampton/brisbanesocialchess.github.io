@@ -1,6 +1,6 @@
 ---
 layout: 'layouts/meetup.njk'
-slug: thursday
+slug: 'thursday'
 heading: 'Thursday Night Chess ♟️🍺'
 location: 'Royal Hotel, Nundah'
 hosts:
