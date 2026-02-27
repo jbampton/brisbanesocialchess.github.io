@@ -247,5 +247,6 @@ repos:
         name: pylint
         entry: pylint
         language: system
+        stages: [manual]
         types: [python]
         args: ['-rn', '--rcfile=.github/linters/.pylintrc']
