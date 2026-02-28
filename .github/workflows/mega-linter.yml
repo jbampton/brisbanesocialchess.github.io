@@ -14,6 +14,8 @@ on:
     branches:
       - main
 
+    permissions:
+      contents: read
 # Comment env block if you do not want to apply fixes
 env:
   # Apply linter fixes configuration
